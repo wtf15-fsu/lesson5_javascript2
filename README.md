@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+June 29th, 2018
 
 ### Student Name:  
-(First and Last Name)
+William Fuller
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Using the code provided, complete a tax calculator for the 2018 financial year that
+displays the tax bracket and amount of taxes owed based on the income of the user.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://wtf15-fsu.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The use of loops and if-then-else statements in Javascript
+2. How to create functions for multi-use
+3. Using the browser console to identify errors in Javascript code
 
